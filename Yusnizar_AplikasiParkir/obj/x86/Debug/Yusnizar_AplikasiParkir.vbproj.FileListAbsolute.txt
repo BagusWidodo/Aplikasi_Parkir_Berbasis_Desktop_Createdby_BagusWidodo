@@ -1,0 +1,17 @@
+D:\VB NET\MEDIA Pembelajaran\Yusnizar_AplikasiParkir\Yusnizar_AplikasiParkir\bin\Debug\Yusnizar_AplikasiParkir.exe
+D:\VB NET\MEDIA Pembelajaran\Yusnizar_AplikasiParkir\Yusnizar_AplikasiParkir\bin\Debug\Yusnizar_AplikasiParkir.pdb
+D:\VB NET\MEDIA Pembelajaran\Yusnizar_AplikasiParkir\Yusnizar_AplikasiParkir\bin\Debug\Yusnizar_AplikasiParkir.xml
+D:\VB NET\MEDIA Pembelajaran\Yusnizar_AplikasiParkir\Yusnizar_AplikasiParkir\obj\x86\Debug\Yusnizar_AplikasiParkir.Laporan.resources
+D:\VB NET\MEDIA Pembelajaran\Yusnizar_AplikasiParkir\Yusnizar_AplikasiParkir\obj\x86\Debug\Yusnizar_AplikasiParkir.Login.resources
+D:\VB NET\MEDIA Pembelajaran\Yusnizar_AplikasiParkir\Yusnizar_AplikasiParkir\obj\x86\Debug\Yusnizar_AplikasiParkir.Menu_Utama.resources
+D:\VB NET\MEDIA Pembelajaran\Yusnizar_AplikasiParkir\Yusnizar_AplikasiParkir\obj\x86\Debug\Yusnizar_AplikasiParkir.Resources.resources
+D:\VB NET\MEDIA Pembelajaran\Yusnizar_AplikasiParkir\Yusnizar_AplikasiParkir\obj\x86\Debug\Yusnizar_AplikasiParkir.Parkir_Keluar.resources
+D:\VB NET\MEDIA Pembelajaran\Yusnizar_AplikasiParkir\Yusnizar_AplikasiParkir\obj\x86\Debug\Yusnizar_AplikasiParkir.Parkir_Masuk.resources
+D:\VB NET\MEDIA Pembelajaran\Yusnizar_AplikasiParkir\Yusnizar_AplikasiParkir\obj\x86\Debug\Yusnizar_AplikasiParkir.vbproj.GenerateResource.Cache
+D:\VB NET\MEDIA Pembelajaran\Yusnizar_AplikasiParkir\Yusnizar_AplikasiParkir\obj\x86\Debug\Yusnizar_AplikasiParkir.exe
+D:\VB NET\MEDIA Pembelajaran\Yusnizar_AplikasiParkir\Yusnizar_AplikasiParkir\obj\x86\Debug\Yusnizar_AplikasiParkir.xml
+D:\VB NET\MEDIA Pembelajaran\Yusnizar_AplikasiParkir\Yusnizar_AplikasiParkir\obj\x86\Debug\Yusnizar_AplikasiParkir.pdb
+D:\VB NET\MEDIA Pembelajaran\Yusnizar_AplikasiParkir\Yusnizar_AplikasiParkir\obj\x86\Debug\Yusnizar_AplikasiParkir.Admin.resources
+D:\VB NET\MEDIA Pembelajaran\Yusnizar_18220371_UTSPemrogramanVisualLanjutan\Yusnizar_AplikasiParkir\obj\x86\Debug\Yusnizar_AplikasiParkir.exe
+D:\VB NET\MEDIA Pembelajaran\Yusnizar_18220371_UTSPemrogramanVisualLanjutan\Yusnizar_AplikasiParkir\obj\x86\Debug\Yusnizar_AplikasiParkir.xml
+D:\VB NET\MEDIA Pembelajaran\Yusnizar_18220371_UTSPemrogramanVisualLanjutan\Yusnizar_AplikasiParkir\obj\x86\Debug\Yusnizar_AplikasiParkir.pdb
